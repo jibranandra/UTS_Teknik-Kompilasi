@@ -10,8 +10,6 @@
 
 ---
 
----
-
 ### ✅ TUGAS 1 — Penambahan Token Eksponen
 
 Saya menambahkan simbol `\^` ke dalam kumpulan karakter operator pada fungsi `re.findall`. Ini memungkinkan *Lexer* mengenali operator pangkat sebagai token yang valid.
@@ -62,5 +60,4 @@ def term(self):
     return node
 
 ```
-
 ---
